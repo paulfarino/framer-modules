@@ -1,4 +1,4 @@
-# UIALert Framer Module
+# UIAlert Framer Module
 A Framer module to display a UIAlertController
 
 ## Installation
